@@ -17,3 +17,4 @@ drwxr-xr-x  2 putri.ramadhanty StafCS 4096 Sep  7 18:28 week08
 drwxr-xr-x  2 putri.ramadhanty StafCS 4096 Sep  7 18:28 week09
 drwxr-xr-x  2 putri.ramadhanty StafCS 4096 Sep  7 18:28 week10
 /home/fasilkom/mahasiswa/p/putri.ramadhanty/gitOS/os162/week01
+Today is 08 Sep 2016 at 16:33:45
