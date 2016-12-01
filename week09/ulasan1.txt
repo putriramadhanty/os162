@@ -1,0 +1,45 @@
+Last login: Thu Dec  1 19:31:57 on console
+Reitasyas-MacBook-Pro:~ reitasya.devina$ ssh reitasya.devina@kawung.cs.ui.ac.id
+reitasya.devina@kawung.cs.ui.ac.id's password: 
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Tue Nov 22 13:05:53 2016 from 10.5.92.54
+reitasya.devina@kawung:~$ ssh reitasya.devina@badak.cs.ui.ac.id
+reitasya.devina@badak.cs.ui.ac.id's password: 
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Tue Nov 22 13:07:26 2016 from kawung.cs.ui.ac.id
+reitasya.devina@badak:~$ ls
+os162  work
+reitasya.devina@badak:~$ cd os162
+reitasya.devina@badak:~/os162$ ls
+README.md  XREMEDY  week01  week03  week05  week07  week09
+SandBox    week00   week02  week04  week06  week08  week10
+reitasya.devina@badak:~/os162$ cd week09
+reitasya.devina@badak:~/os162/week09$ ls
+dummy
+reitasya.devina@badak:~/os162/week09$ vi ulasan1.txt
+
+8. Public vs private clouds
+
+Di dalam pembagiannya, terdapat dua jenis cloud computing, yaitu public cloud dan private clouds. Dimana public cloud disediakan untuk masyarakat umum, kita hanya tinggal mendaftar sebagai user untuk memakai layanan yang ada. Sedangkan private cloud ialah layanan cloud computingyang disediakan untuk memenuh kebutuhan suatu perusahaan. Sehingga hanya karyawan dari perusahaan tersebut yang boleh menggunkan cloud.
+
+Menurut kami, video tersebut mudah di mengerti dan cukup jelas karena memang ditujukan untuk para pemula. Selain itu, dengan adanya pemodelan menggunakan gambar di papan tulis memudahkan kita dalam memahami hal yang Eli maksud. Namun, ada beberapa hal yang mengganjal dalam video tersebut, seperti artikulasi yang tidak jelas tapi cukup terbantu karena adanya subtittle dan penjelasan yang cenderung membosankan karena dari dari awal hingga akhir video Eli terus memberikan penjelas yang statis. Selebihnya, video ini sangat kami särankan.
+
+Dalam pembuatannya review ini
+Dibuat oleh :
+Putri Ramadhanty ( putriramadhanty96@gmail.com )(https://github.com/putriramadhanty/os162)
+Reitasya Devina ( reitasya.devina@gmail.com) (https://github.com/reitasya/os162)
+
+-- INSERT --                                                  34,1          79%
+
